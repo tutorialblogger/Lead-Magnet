@@ -1,0 +1,30 @@
+<!-- subscribe lead magnet -->
+    <div class="leadmagnet">
+    <h2 class="title">Convierte tu blog en una máquina de ventas</h2>
+    <p class="texto" >Suscríbete descubre como convertir tu simple blogspot en un imán de potenciales clientes. </p>
+    <!-- Beneficios -->
+    <ul class="ul-magnet">
+    <li>Multiplica tus ingresos aprovechando al máximo tu blogger</li>
+    <li>Comienza a generar tráfico cualificado y de interés para tu oferta</li>
+    <li>Convierte tus visitas en clientes gracias a un blog optimizado</li>
+    </ul>
+    <!-- //Beneficios -->
+    <!-- Begin benchmarkemail Signup Form -->
+    <div id="subscribe">
+    <div style="text-align:center;">
+    <form style="display:inline;" action="https://lb.benchmarkemail.com//code/lbform" method=post name="frmLB822418" accept-charset="UTF-8" onsubmit="return _checkSubmit822418(this);" >
+    <input type=hidden name=successurl value="https://www.tutorialblogger.org/p/estas-punto-de-suscribirte-al-grupo.html" />
+    <input type=hidden name=errorurl value="https://lb.benchmarkemail.com//Code/Error" />
+    <input type=hidden name=token value="mFcQnoBFKMQeD10snxbQ6OZXUawFafLCMfD4HgpzBz1HNHYysVoPng%3D%3D" />
+    <input type=hidden name=doubleoptin value="" />
+    <input type="email" size="20" value="Ingresa tu email" name="fldEmail" class="required email" id="mce-EMAIL" onfocus="if(this.value==this.defaultValue)this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;)this.value=this.defaultValue;" />
+    <input type="text" size="20" value="Ingresa tu nombre" name="fldfirstname" class="name" id="mce-FNAME" onfocus="if(this.value==this.defaultValue)this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;)this.value=this.defaultValue;" />
+    <div class="clear">
+    <input type="submit" value="Suscribete Ahora" name="subscribe" id="btnSubmit" krydebug="1751" class="button" />
+    </div>
+    </form> 
+    </div>
+    </div>
+   <!-- End benchmarkemail signup -->
+   </div>
+<!-- //subscribe lead magnet-->
