@@ -1,0 +1,176 @@
+/*=====================================
+= Formulario subscribe lead magnet
+=====================================*/
+#subscribe {
+<!-- background: rgba(0, 153, 204 , 1); Eliminamos el color de fondo -->
+padding: 40px 10px;
+box-sizing: border-box;
+width: 100%;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+}
+
+#subscribe input {
+border: medium none;
+color: gray;
+font-family: helvetica;
+font-size: 16px;
+margin-bottom: 10px;
+padding: 15px 15px;
+width: 300px;
+border-radius: 3px;
+border:1px solid #DADADA;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+margin: 05px auto;
+ float:none;
+}
+
+#subscribe input.email { background: #fff}
+#subscribe input.name { background: #fff}
+#subscribe input[type="submit"] {
+background: #D35400!important;
+color: #fff;
+cursor: pointer;
+font-size: 16px;
+width: 600px;
+border-radius: 3px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+padding: 15px 0;
+
+}
+#subscribe input[type="submit"]:hover {background: #252525 !important;}
+
+@media only screen and (max-width: 768px) {
+
+#subscribe input.email {
+  width: 100%;
+   }
+}
+
+@media only screen and (max-width: 768px) {
+
+#subscribe input.name {
+  width: 100%;
+   }
+}
+
+
+@media only screen and (max-width: 768px) {
+
+#subscribe input[type="submit"] {
+  width: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+#subscribe input.email {
+  width: 100%;
+   }
+}
+
+@media only screen and (max-width: 600px) {
+
+#subscribe input.name {
+  width: 100%;
+   }
+}
+
+
+@media only screen and (max-width: 600px) {
+
+#subscribe input[type="submit"] {
+  width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+
+#subscribe input.email {
+  width: 100%;
+   }
+}
+
+@media only screen and (max-width: 480px) {
+
+#subscribe input.name {
+  width: 100%;
+   }
+}
+
+
+@media only screen and (max-width: 480px) {
+
+#subscribe input[type="submit"] {
+  width: 100%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+
+#subscribe input.email {
+  width: 100%;
+   }
+}
+
+@media only screen and (max-width: 320px) {
+
+#subscribe input.name {
+  width: 100%;
+   }
+}
+
+
+@media only screen and (max-width: 320px) {
+
+#subscribe input[type="submit"] {
+  width: 100%;
+  }
+}
+
+/*=====================================
+= Viñetas subscribe lead magnet
+=====================================*/
+.leadmagnet{
+    background-color: #F5F5F5;
+    margin: 1em auto;
+    padding: 1em 2em;
+    align-content: center;
+    border-radius: 10px;
+    border: 2px solid rgb(229, 98, 35);
+    width: 100%;    
+}
+
+.title {
+  margin-bottom: 0.5rem;
+  font-size: 27px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #e56223;
+  text-align: center;
+}
+
+.texto {
+    margin-top: 20px !important;
+    margin-bottom: 1rem;
+    line-height: 30px;
+    font-weight: bold;
+    padding-left: 30px;
+
+}
+
+.ul-magnet {
+    padding-left: 10px;
+    margin-left: 10px;
+    list-style-type: none;
+
+}
+.ul-magnet li {
+    padding-left: 50px;
+    background: url(https://3.bp.blogspot.com/-KyulzL8-v4I/WpLQZKgv35I/AAAAAAAAFxc/Hln1szIwHy8srrQ-bVwhWKT-DQITbQPXgCLcBGAs/s1600/ok.png) 1em 0.3em no-repeat;
+    margin-bottom: 0.5em;
+}
